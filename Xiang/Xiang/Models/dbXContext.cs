@@ -136,15 +136,19 @@ namespace Xiang.Models
 
             modelBuilder.Entity<CouponsLog>(entity =>
             {
-                entity.HasKey(e => new { e.CouponId, e.OrderId });
+                entity.HasKey(e => e.CouponId);
 
                 entity.ToTable("CouponsLog");
 
-                entity.Property(e => e.CouponId)
-                    .ValueGeneratedOnAdd()
-                    .HasColumnName("CouponID");
+                entity.Property(e => e.CouponId).HasColumnName("CouponID");
 
                 entity.Property(e => e.OrderId).HasColumnName("OrderID");
+
+                entity.HasOne(d => d.Order)
+                    .WithMany(p => p.CouponsLogs)
+                    .HasForeignKey(d => d.OrderId)
+                    .OnDelete(DeleteBehavior.Cascade)
+                    .HasConstraintName("FK_CouponsLog_COrders");
             });
 
             modelBuilder.Entity<Customer>(entity =>
@@ -290,6 +294,8 @@ namespace Xiang.Models
                 entity.Property(e => e.SupplierId).HasColumnName("SupplierID");
 
                 entity.Property(e => e.Address).HasMaxLength(50);
+
+                entity.Property(e => e.Category).HasMaxLength(50);
 
                 entity.Property(e => e.Email).HasMaxLength(50);
 

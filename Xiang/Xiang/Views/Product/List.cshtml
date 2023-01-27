@@ -1,0 +1,62 @@
+﻿@model IEnumerable<Xiang.Models.Product>
+@{
+    ViewData["Title"] = "List";
+}
+<h1>產品資訊</h1>
+@using (Html.BeginForm())
+{
+    <p>
+        關鍵字
+        @Html.TextBox("txtKeyword")    @*等於做一個TextBox*@
+        <input type="submit" value="查詢">
+    </p>
+}
+
+<p><a asp-action="Create">新增產品</a></p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                產品編號
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UnitPrice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Image)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            int count = 0;
+            foreach (var item in Model)
+            {
+                count++;
+                <tr>
+                    <td>
+                        @count
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.UnitPrice)
+                    </td>
+                    <td>
+                        <img src="~/images/@item.Image" width="150" height="150" />
+                    </td>
+                    <td>
+                        @Html.ActionLink("修改", "Edit", new { id=item.ProductId }) |
+                        @Html.ActionLink("刪除", "Delete","Product", new { id=item.ProductId },new {onclick="return confirm('確定要刪除嗎?')"}) |
+                        @Html.ActionLink("站點資訊", "Site", new { id=item.ProductId })
+                    </td>
+                </tr>
+            }
+        }
+    </tbody>
+</table>

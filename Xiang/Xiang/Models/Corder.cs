@@ -5,6 +5,11 @@ namespace Xiang.Models
 {
     public partial class Corder
     {
+        public Corder()
+        {
+            CouponsLogs = new HashSet<CouponsLog>();
+        }
+
         public int OrderId { get; set; }
         public int? CustomerId { get; set; }
         public int? ProductId { get; set; }
@@ -20,5 +25,6 @@ namespace Xiang.Models
 
         public virtual Customer? Customer { get; set; }
         public virtual Product? Product { get; set; }
+        public virtual ICollection<CouponsLog> CouponsLogs { get; set; }
     }
 }

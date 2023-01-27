@@ -10,6 +10,5 @@ namespace Xiang.Models
         public decimal? Discount { get; set; }
         public DateTime? ExpiryDate { get; set; }
         public int? Quantity { get; set; }
-        public bool? Available { get; set; }
     }
 }
