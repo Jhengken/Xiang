@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hpu97\\Desktop\\Xiang\\Xiang\\Xiang\\Xiang.csproj": {}
+    "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\Xiang.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hpu97\\Desktop\\Xiang\\Xiang\\Xiang\\Xiang.csproj": {
+    "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\Xiang.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hpu97\\Desktop\\Xiang\\Xiang\\Xiang\\Xiang.csproj",
+        "projectUniqueName": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\Xiang.csproj",
         "projectName": "Xiang",
-        "projectPath": "C:\\Users\\hpu97\\Desktop\\Xiang\\Xiang\\Xiang\\Xiang.csproj",
+        "projectPath": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\Xiang.csproj",
         "packagesPath": "C:\\Users\\hpu97\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hpu97\\Desktop\\Xiang\\Xiang\\Xiang\\obj\\",
+        "outputPath": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hpu97\\AppData\\Roaming\\NuGet\\NuGet.Config",
