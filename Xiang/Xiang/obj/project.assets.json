@@ -10052,19 +10052,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\hpu97\\.nuget\\packages\\": {}
+    "C:\\Users\\Acer\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hpu97\\Desktop\\Xiang\\Xiang\\Xiang\\Xiang.csproj",
+      "projectUniqueName": "D:\\Xiang\\Xiang\\Xiang\\Xiang.csproj",
       "projectName": "Xiang",
-      "projectPath": "C:\\Users\\hpu97\\Desktop\\Xiang\\Xiang\\Xiang\\Xiang.csproj",
-      "packagesPath": "C:\\Users\\hpu97\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hpu97\\Desktop\\Xiang\\Xiang\\Xiang\\obj\\",
+      "projectPath": "D:\\Xiang\\Xiang\\Xiang\\Xiang.csproj",
+      "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
+      "outputPath": "D:\\Xiang\\Xiang\\Xiang\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\hpu97\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -10072,6 +10077,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -10128,8 +10134,16 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "讀取快取檔案 D:\\Xiang\\Xiang\\Xiang\\obj\\project.nuget.cache 時發生問題: Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
