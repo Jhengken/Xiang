@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore.Metadata.Internal;
 using System.Diagnostics;
 using Xiang.Models;
 
@@ -22,7 +23,20 @@ namespace Xiang.Controllers
         {
             return View();
         }
-
+        public IActionResult Detail(int? id)
+        {
+            using(dbXContext db = new dbXContext())
+            { 
+                var productDetail = (from t in db.Products where t.ProductId == id select t).FirstOrDefault();
+                if(productDetail == default(Models.Product))
+                 {
+                    return View(Index);
+                }
+                else
+                     return View(productDetail);  
+            }
+           
+        }
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {
