@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using System.Text.Json;
+using Microsoft.AspNetCore.Mvc;
 using Xiang.Models;
 using Xiang.ViewModels;
 
@@ -79,6 +80,20 @@ namespace Xiang.Controllers
                     return View(x);
             }
             return RedirectToAction("List");
+        }
+        public IActionResult Login(LoginViewModel vm)
+        {
+            Customer user = (new dbXContext()).Customers.FirstOrDefault(
+                t => t.Email.Equals(vm.txtAccount) && t.Password.Equals(vm.txtPassword));
+
+            if (user != null && user.Password.Equals(vm.txtPassword))
+            {
+                string json = JsonSerializer.Serialize(user);
+                HttpContext.Session.SetString(Dictionary.SK_LOGINED_USER, json);
+                return RedirectToAction("Index");
+
+            }
+            return View();
         }
     }
 }
