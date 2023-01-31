@@ -13,7 +13,11 @@ namespace Xiang.Models
         }
 
         public int SupplierId { get; set; }
+<<<<<<< HEAD
 
+=======
+        public string? Category { get; set; }
+>>>>>>> origin/develop
         public string? Name { get; set; }
         public string? Email { get; set; }
 

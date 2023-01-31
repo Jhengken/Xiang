@@ -2,6 +2,7 @@
   "format": 1,
   "restore": {
 <<<<<<< HEAD
+<<<<<<< HEAD
     "C:\\Users\\user\\Desktop\\End\\Xiang\\Xiang\\Xiang.csproj": {}
   },
   "projects": {
@@ -26,12 +27,29 @@
         "packagesPath": "C:\\Users\\iSpan\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\iSpan\\OneDrive\\Desktop\\Xiang\\Xiang\\Xiang\\obj\\",
 >>>>>>> origin/feature/Customer
+=======
+    "D:\\Xiang\\Xiang\\Xiang\\Xiang.csproj": {}
+  },
+  "projects": {
+    "D:\\Xiang\\Xiang\\Xiang\\Xiang.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Xiang\\Xiang\\Xiang\\Xiang.csproj",
+        "projectName": "Xiang",
+        "projectPath": "D:\\Xiang\\Xiang\\Xiang\\Xiang.csproj",
+        "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
+        "outputPath": "D:\\Xiang\\Xiang\\Xiang\\obj\\",
+>>>>>>> origin/develop
         "projectStyle": "PackageReference",
         "configFilePaths": [
+<<<<<<< HEAD
 <<<<<<< HEAD
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
 =======
           "C:\\Users\\iSpan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+          "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> origin/develop
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
 >>>>>>> origin/feature/Customer
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -75,12 +93,15 @@
               "version": "[6.0.13, )"
             },
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
             "Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore": {
               "target": "Package",
               "version": "[6.0.13, )"
             },
 >>>>>>> origin/feature/Customer
+=======
+>>>>>>> origin/develop
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[6.0.11, )"
@@ -105,7 +126,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+>>>>>>> origin/develop
         }
       }
     }
