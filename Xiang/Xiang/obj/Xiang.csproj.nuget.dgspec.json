@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\user\\Desktop\\End\\Xiang\\Xiang\\Xiang.csproj": {}
   },
   "projects": {
@@ -12,9 +13,27 @@
         "projectPath": "C:\\Users\\user\\Desktop\\End\\Xiang\\Xiang\\Xiang.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\user\\Desktop\\End\\Xiang\\Xiang\\obj\\",
+=======
+    "C:\\Users\\iSpan\\OneDrive\\Desktop\\Xiang\\Xiang\\Xiang\\Xiang.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\iSpan\\OneDrive\\Desktop\\Xiang\\Xiang\\Xiang\\Xiang.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\iSpan\\OneDrive\\Desktop\\Xiang\\Xiang\\Xiang\\Xiang.csproj",
+        "projectName": "Xiang",
+        "projectPath": "C:\\Users\\iSpan\\OneDrive\\Desktop\\Xiang\\Xiang\\Xiang\\Xiang.csproj",
+        "packagesPath": "C:\\Users\\iSpan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\iSpan\\OneDrive\\Desktop\\Xiang\\Xiang\\Xiang\\obj\\",
+>>>>>>> origin/feature/Customer
         "projectStyle": "PackageReference",
         "configFilePaths": [
+<<<<<<< HEAD
           "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+          "C:\\Users\\iSpan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+>>>>>>> origin/feature/Customer
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +41,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -54,6 +74,13 @@
               "target": "Package",
               "version": "[6.0.13, )"
             },
+<<<<<<< HEAD
+=======
+            "Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.13, )"
+            },
+>>>>>>> origin/feature/Customer
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[6.0.11, )"

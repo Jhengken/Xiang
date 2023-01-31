@@ -1,0 +1,100 @@
+﻿@model IEnumerable<Xiang.Models.Customer>
+
+@{
+    ViewData["Title"] = "List";
+}
+
+<h1>客戶資料一覽表</h1>
+
+@using (Html.BeginForm())
+{
+    <p>
+        關鍵字
+        @Html.TextBox("txtKeyword")
+        <input type="submit" value="查詢" />
+    </p>
+}
+
+<p>
+    <a asp-action="Create">新增客戶</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                客戶編號
+            </th>
+            <th>
+                客戶姓名
+            </th>
+            <th>
+                客戶Email
+            </th>
+            <th>
+                客戶手機
+            </th>
+            <th>
+                客戶密碼
+            </th>
+            <th>
+                客戶住址
+            </th>
+            <th>
+                客戶生日
+            </th>
+            <th>
+                客戶信用卡
+            </th>
+            <th>
+                客戶點數
+            </th>
+            <th>
+                客戶黑名單
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            int count = 0;
+            foreach (var item in Model) {
+                count++;
+        <tr>
+            <td>
+                @count
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Phone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Password)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Address)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Birth)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CreditCard)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CreditPoints)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BlackListed)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id=item.CustomerId}) |
+                @Html.ActionLink("Delete", "Delete","Customer", new { id=item.CustomerId}, new { onclick = "return confirm('確定要刪除嗎?')" })
+            </td>
+        </tr>
+}}
+    </tbody>
+</table>

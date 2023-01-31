@@ -1,10 +1,14 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+<<<<<<< HEAD
 using Xiang.Models;
+=======
+>>>>>>> origin/feature/Customer
 
 namespace Xiang.Controllers
 {
     public class SupplierController : Controller
     {
+<<<<<<< HEAD
         public IActionResult List()
         {
             IEnumerable<Supplier> datas = null;
@@ -28,5 +32,11 @@ namespace Xiang.Controllers
             return RedirectToAction("List");
         }
 
+=======
+        public IActionResult Index()
+        {
+            return View();
+        }
+>>>>>>> origin/feature/Customer
     }
 }
