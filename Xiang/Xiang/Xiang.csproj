@@ -20,23 +20,17 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
+
     <PackageReference Include="Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore" Version="6.0.13" />
->>>>>>> origin/feature/Customer
+
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.11" />
-=======
+
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.11" />
   </ItemGroup>
 
   <ItemGroup>
     <Folder Include="wwwroot\images\" />
-<<<<<<< HEAD
->>>>>>> origin/develop
-=======
     <Folder Include="wwwroot\PSite\" />
->>>>>>> origin/feature/ProductController基本功能
   </ItemGroup>
 
 </Project>

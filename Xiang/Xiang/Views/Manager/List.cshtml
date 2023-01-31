@@ -1,0 +1,60 @@
+﻿@model IEnumerable<Xiang.Models.Manager>
+
+@{
+    ViewData["Title"] = "List";
+}
+
+<h1>List</h1>
+
+<p>
+    <a asp-action="Create">建立平台使用者</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                編號
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Phone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Password)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@{int count = 0;
+foreach (var item in Model) { count++;
+        <tr>
+            <td>
+                  @count
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Phone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Password)
+            </td>
+            <td>
+                @Html.ActionLink("編輯", "Edit", new {  id=item.ManagerId  }) |
+                @*@Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |*@
+                @Html.ActionLink("刪除", "Delete", new { id=item.ManagerId },new {onclick="return confirm('確定要刪除嗎?')"}) |
+            </td>
+        </tr>
+}}
+    </tbody>
+</table>

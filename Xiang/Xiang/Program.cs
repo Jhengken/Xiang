@@ -22,14 +22,5 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-<<<<<<< HEAD
-<<<<<<< HEAD
     pattern: "{controller=Supplier}/{action=List}/{id?}");
-=======
-    pattern: "{controller=Customer}/{action=Login}/{id?}");
->>>>>>> origin/feature/Customer
-=======
-    pattern: "{controller=Product}/{action=Login}/{id?}");
->>>>>>> origin/develop
-
 app.Run();
