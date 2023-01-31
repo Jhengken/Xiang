@@ -32,7 +32,11 @@
 
   <ItemGroup>
     <Folder Include="wwwroot\images\" />
+<<<<<<< HEAD
 >>>>>>> origin/develop
+=======
+    <Folder Include="wwwroot\PSite\" />
+>>>>>>> origin/feature/ProductController基本功能
   </ItemGroup>
 
 </Project>

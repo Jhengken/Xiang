@@ -2,9 +2,15 @@
   "version": 2,
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   "dgSpecHash": "/kwa3fv5pu/ZyxwVefECO4sZJdUbZPZl5/XTlTml9vYdhiUhctNRmH+6d3poYp3VWT+eRegnTbPhr3PvrJAKuw==",
   "success": true,
   "projectFilePath": "C:\\Users\\user\\Desktop\\End\\Xiang\\Xiang\\Xiang.csproj",
+=======
+  "dgSpecHash": "1MfAAZC8zBjs2oGrLCcC8DgQTwU5pPBJxoPwq5uG3H4bfLNw9Yfphrg8zMsBFeint6WfePtzAco7lIMmSPYvfA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\Xiang.csproj",
+>>>>>>> origin/feature/ProductController基本功能
   "expectedPackageFiles": [
     "C:\\Users\\user\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

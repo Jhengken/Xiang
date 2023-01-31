@@ -10259,6 +10259,7 @@
     "restore": {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\user\\Desktop\\End\\Xiang\\Xiang\\Xiang.csproj",
       "projectName": "Xiang",
       "projectPath": "C:\\Users\\user\\Desktop\\End\\Xiang\\Xiang\\Xiang.csproj",
@@ -10278,6 +10279,13 @@
       "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
       "outputPath": "D:\\Xiang\\Xiang\\Xiang\\obj\\",
 >>>>>>> origin/develop
+=======
+      "projectUniqueName": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\Xiang.csproj",
+      "projectName": "Xiang",
+      "projectPath": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\Xiang.csproj",
+      "packagesPath": "C:\\Users\\hpu97\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\obj\\",
+>>>>>>> origin/feature/ProductController基本功能
       "projectStyle": "PackageReference",
       "configFilePaths": [
 <<<<<<< HEAD

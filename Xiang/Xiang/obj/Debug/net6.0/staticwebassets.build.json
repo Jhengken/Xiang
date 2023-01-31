@@ -2,6 +2,7 @@
   "Version": 1,
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   "Hash": "gjsLz3vrzCCwbgf1ulMAJZoShC7q/9s/p95j793+Gnw=",
 =======
   "Hash": "UK17gxcfKIgm8NM5eCFlRWfn9eWENsmovOnpHLhYfLU=",
@@ -12,6 +13,9 @@
   "Hash": "V58Er6cVmjIab+hNrggsbNa+3vcaPSiZwQuPnzqZFO0=",
 >>>>>>> Coupon
 >>>>>>> origin/develop
+=======
+  "Hash": "Dk144tYVfUIfDxwVnpaj/R15on3C4KAh/8REeEDrlX4=",
+>>>>>>> origin/feature/ProductController基本功能
   "Source": "Xiang",
   "BasePath": "_content/Xiang",
   "Mode": "Default",
@@ -21,6 +25,7 @@
     {
       "Name": "Xiang\\wwwroot",
       "Source": "Xiang",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "ContentRoot": "C:\\Users\\user\\Desktop\\End\\Xiang\\Xiang\\wwwroot\\",
@@ -33,12 +38,16 @@
       "ContentRoot": "D:\\test\\Xiang\\Xiang\\Xiang\\wwwroot\\",
 >>>>>>> Coupon
 >>>>>>> origin/develop
+=======
+      "ContentRoot": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\",
+>>>>>>> origin/feature/ProductController基本功能
       "BasePath": "_content/Xiang",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\user\\Desktop\\End\\Xiang\\Xiang\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Xiang.styles.css",
@@ -63,6 +72,12 @@
       "ContentRoot": "D:\\test\\Xiang\\Xiang\\Xiang\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
 >>>>>>> Coupon
 >>>>>>> origin/develop
+=======
+      "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Xiang.styles.css",
+      "SourceId": "Xiang",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+>>>>>>> origin/feature/ProductController基本功能
       "BasePath": "_content/Xiang",
       "RelativePath": "Xiang.styles.css",
       "AssetKind": "All",
@@ -73,6 +88,7 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\user\\Desktop\\End\\Xiang\\Xiang\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Xiang.styles.css"
@@ -93,11 +109,15 @@
 >>>>>>> origin/feature/Customer
 =======
       "OriginalItemSpec": "C:\\Users\\hpu97\\Desktop\\Xiang\\Xiang\\Xiang\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Xiang.styles.css"
+=======
+      "OriginalItemSpec": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Xiang.styles.css"
+>>>>>>> origin/feature/ProductController基本功能
     },
     {
-      "Identity": "C:\\Users\\hpu97\\Desktop\\Xiang\\Xiang\\Xiang\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Xiang.bundle.scp.css",
+      "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Xiang.bundle.scp.css",
       "SourceId": "Xiang",
       "SourceType": "Computed",
+<<<<<<< HEAD
       "ContentRoot": "C:\\Users\\hpu97\\Desktop\\Xiang\\Xiang\\Xiang\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
 =======
       "OriginalItemSpec": "D:\\test\\Xiang\\Xiang\\Xiang\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Xiang.styles.css"
@@ -109,6 +129,9 @@
       "ContentRoot": "D:\\test\\Xiang\\Xiang\\Xiang\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
 >>>>>>> Coupon
 >>>>>>> origin/develop
+=======
+      "ContentRoot": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+>>>>>>> origin/feature/ProductController基本功能
       "BasePath": "_content/Xiang",
       "RelativePath": "Xiang.bundle.scp.css",
       "AssetKind": "All",
@@ -119,6 +142,7 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "OriginalItemSpec": "C:\\Users\\user\\Desktop\\End\\Xiang\\Xiang\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Xiang.bundle.scp.css"
@@ -139,11 +163,15 @@
 >>>>>>> origin/feature/Customer
 =======
       "OriginalItemSpec": "C:\\Users\\hpu97\\Desktop\\Xiang\\Xiang\\Xiang\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Xiang.bundle.scp.css"
+=======
+      "OriginalItemSpec": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Xiang.bundle.scp.css"
+>>>>>>> origin/feature/ProductController基本功能
     },
     {
-      "Identity": "C:\\Users\\hpu97\\Desktop\\Xiang\\Xiang\\Xiang\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\css\\site.css",
       "SourceId": "Xiang",
       "SourceType": "Discovered",
+<<<<<<< HEAD
       "ContentRoot": "C:\\Users\\hpu97\\Desktop\\Xiang\\Xiang\\Xiang\\wwwroot\\",
 =======
       "OriginalItemSpec": "D:\\test\\Xiang\\Xiang\\Xiang\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Xiang.bundle.scp.css"
@@ -189,6 +217,9 @@
       "ContentRoot": "D:\\test\\Xiang\\Xiang\\Xiang\\wwwroot\\",
 >>>>>>> Coupon
 >>>>>>> origin/develop
+=======
+      "ContentRoot": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\",
+>>>>>>> origin/feature/ProductController基本功能
       "BasePath": "_content/Xiang",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -202,6 +233,7 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\user\\Desktop\\End\\Xiang\\Xiang\\wwwroot\\favicon.ico",
@@ -226,6 +258,12 @@
       "ContentRoot": "D:\\test\\Xiang\\Xiang\\Xiang\\wwwroot\\",
 >>>>>>> Coupon
 >>>>>>> origin/develop
+=======
+      "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\favicon.ico",
+      "SourceId": "Xiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\",
+>>>>>>> origin/feature/ProductController基本功能
       "BasePath": "_content/Xiang",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -239,6 +277,7 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\user\\Desktop\\End\\Xiang\\Xiang\\wwwroot\\js\\site.js",
@@ -263,6 +302,14 @@
       "ContentRoot": "D:\\test\\Xiang\\Xiang\\Xiang\\wwwroot\\",
       "BasePath": "_content/Xiang",
       "RelativePath": "img/undraw_posting_photo.svg",
+=======
+      "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\images\\202301292153371282369.jpg",
+      "SourceId": "Xiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\",
+      "BasePath": "_content/Xiang",
+      "RelativePath": "images/202301292153371282369.jpg",
+>>>>>>> origin/feature/ProductController基本功能
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -271,6 +318,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\img\\undraw_posting_photo.svg"
     },
     {
@@ -280,6 +328,17 @@
       "ContentRoot": "D:\\test\\Xiang\\Xiang\\Xiang\\wwwroot\\",
       "BasePath": "_content/Xiang",
       "RelativePath": "img/undraw_profile.svg",
+=======
+      "OriginalItemSpec": "wwwroot\\images\\202301292153371282369.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\images\\202301292224192938279.jpg",
+      "SourceId": "Xiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\",
+      "BasePath": "_content/Xiang",
+      "RelativePath": "images/202301292224192938279.jpg",
+>>>>>>> origin/feature/ProductController基本功能
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -288,6 +347,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
+<<<<<<< HEAD
       "OriginalItemSpec": "wwwroot\\img\\undraw_profile.svg"
     },
     {
@@ -467,6 +527,15 @@
       "ContentRoot": "D:\\test\\Xiang\\Xiang\\Xiang\\wwwroot\\",
 >>>>>>> Coupon
 >>>>>>> origin/develop
+=======
+      "OriginalItemSpec": "wwwroot\\images\\202301292224192938279.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\js\\site.js",
+      "SourceId": "Xiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\",
+>>>>>>> origin/feature/ProductController基本功能
       "BasePath": "_content/Xiang",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -480,6 +549,7 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\user\\Desktop\\End\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
@@ -504,6 +574,12 @@
       "ContentRoot": "D:\\test\\Xiang\\Xiang\\Xiang\\wwwroot\\",
 >>>>>>> Coupon
 >>>>>>> origin/develop
+=======
+      "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "SourceId": "Xiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\",
+>>>>>>> origin/feature/ProductController基本功能
       "BasePath": "_content/Xiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -517,6 +593,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\user\\Desktop\\End\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
@@ -541,6 +618,12 @@
       "ContentRoot": "D:\\test\\Xiang\\Xiang\\Xiang\\wwwroot\\",
 >>>>>>> Coupon
 >>>>>>> origin/develop
+=======
+      "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "SourceId": "Xiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\",
+>>>>>>> origin/feature/ProductController基本功能
       "BasePath": "_content/Xiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -554,6 +637,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\user\\Desktop\\End\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
@@ -578,6 +662,12 @@
       "ContentRoot": "D:\\test\\Xiang\\Xiang\\Xiang\\wwwroot\\",
 >>>>>>> Coupon
 >>>>>>> origin/develop
+=======
+      "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "SourceId": "Xiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\",
+>>>>>>> origin/feature/ProductController基本功能
       "BasePath": "_content/Xiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -591,6 +681,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\user\\Desktop\\End\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
@@ -615,6 +706,12 @@
       "ContentRoot": "D:\\test\\Xiang\\Xiang\\Xiang\\wwwroot\\",
 >>>>>>> Coupon
 >>>>>>> origin/develop
+=======
+      "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "SourceId": "Xiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\",
+>>>>>>> origin/feature/ProductController基本功能
       "BasePath": "_content/Xiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -628,6 +725,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\user\\Desktop\\End\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
@@ -652,6 +750,12 @@
       "ContentRoot": "D:\\test\\Xiang\\Xiang\\Xiang\\wwwroot\\",
 >>>>>>> Coupon
 >>>>>>> origin/develop
+=======
+      "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "SourceId": "Xiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\",
+>>>>>>> origin/feature/ProductController基本功能
       "BasePath": "_content/Xiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -665,6 +769,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\user\\Desktop\\End\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
@@ -689,6 +794,12 @@
       "ContentRoot": "D:\\test\\Xiang\\Xiang\\Xiang\\wwwroot\\",
 >>>>>>> Coupon
 >>>>>>> origin/develop
+=======
+      "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "SourceId": "Xiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\",
+>>>>>>> origin/feature/ProductController基本功能
       "BasePath": "_content/Xiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -702,6 +813,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\user\\Desktop\\End\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
@@ -726,6 +838,12 @@
       "ContentRoot": "D:\\test\\Xiang\\Xiang\\Xiang\\wwwroot\\",
 >>>>>>> Coupon
 >>>>>>> origin/develop
+=======
+      "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "SourceId": "Xiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\",
+>>>>>>> origin/feature/ProductController基本功能
       "BasePath": "_content/Xiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -739,6 +857,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\user\\Desktop\\End\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
@@ -763,6 +882,12 @@
       "ContentRoot": "D:\\test\\Xiang\\Xiang\\Xiang\\wwwroot\\",
 >>>>>>> Coupon
 >>>>>>> origin/develop
+=======
+      "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "SourceId": "Xiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\",
+>>>>>>> origin/feature/ProductController基本功能
       "BasePath": "_content/Xiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -776,6 +901,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\user\\Desktop\\End\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
@@ -800,6 +926,12 @@
       "ContentRoot": "D:\\test\\Xiang\\Xiang\\Xiang\\wwwroot\\",
 >>>>>>> Coupon
 >>>>>>> origin/develop
+=======
+      "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "SourceId": "Xiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\",
+>>>>>>> origin/feature/ProductController基本功能
       "BasePath": "_content/Xiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -813,6 +945,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\user\\Desktop\\End\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
@@ -837,6 +970,12 @@
       "ContentRoot": "D:\\test\\Xiang\\Xiang\\Xiang\\wwwroot\\",
 >>>>>>> Coupon
 >>>>>>> origin/develop
+=======
+      "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "SourceId": "Xiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\",
+>>>>>>> origin/feature/ProductController基本功能
       "BasePath": "_content/Xiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -850,6 +989,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\user\\Desktop\\End\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
@@ -874,6 +1014,12 @@
       "ContentRoot": "D:\\test\\Xiang\\Xiang\\Xiang\\wwwroot\\",
 >>>>>>> Coupon
 >>>>>>> origin/develop
+=======
+      "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "SourceId": "Xiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\",
+>>>>>>> origin/feature/ProductController基本功能
       "BasePath": "_content/Xiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -887,6 +1033,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\user\\Desktop\\End\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
@@ -911,6 +1058,12 @@
       "ContentRoot": "D:\\test\\Xiang\\Xiang\\Xiang\\wwwroot\\",
 >>>>>>> Coupon
 >>>>>>> origin/develop
+=======
+      "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "SourceId": "Xiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\",
+>>>>>>> origin/feature/ProductController基本功能
       "BasePath": "_content/Xiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -924,6 +1077,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\user\\Desktop\\End\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
@@ -948,6 +1102,12 @@
       "ContentRoot": "D:\\test\\Xiang\\Xiang\\Xiang\\wwwroot\\",
 >>>>>>> Coupon
 >>>>>>> origin/develop
+=======
+      "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "SourceId": "Xiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\",
+>>>>>>> origin/feature/ProductController基本功能
       "BasePath": "_content/Xiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -961,6 +1121,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\user\\Desktop\\End\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
@@ -985,6 +1146,12 @@
       "ContentRoot": "D:\\test\\Xiang\\Xiang\\Xiang\\wwwroot\\",
 >>>>>>> Coupon
 >>>>>>> origin/develop
+=======
+      "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "SourceId": "Xiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\",
+>>>>>>> origin/feature/ProductController基本功能
       "BasePath": "_content/Xiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -998,6 +1165,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\user\\Desktop\\End\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
@@ -1022,6 +1190,12 @@
       "ContentRoot": "D:\\test\\Xiang\\Xiang\\Xiang\\wwwroot\\",
 >>>>>>> Coupon
 >>>>>>> origin/develop
+=======
+      "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "SourceId": "Xiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\",
+>>>>>>> origin/feature/ProductController基本功能
       "BasePath": "_content/Xiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1035,6 +1209,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\user\\Desktop\\End\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
@@ -1059,6 +1234,12 @@
       "ContentRoot": "D:\\test\\Xiang\\Xiang\\Xiang\\wwwroot\\",
 >>>>>>> Coupon
 >>>>>>> origin/develop
+=======
+      "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "SourceId": "Xiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\",
+>>>>>>> origin/feature/ProductController基本功能
       "BasePath": "_content/Xiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1072,6 +1253,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\user\\Desktop\\End\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
@@ -1096,6 +1278,12 @@
       "ContentRoot": "D:\\test\\Xiang\\Xiang\\Xiang\\wwwroot\\",
 >>>>>>> Coupon
 >>>>>>> origin/develop
+=======
+      "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "SourceId": "Xiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\",
+>>>>>>> origin/feature/ProductController基本功能
       "BasePath": "_content/Xiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1109,6 +1297,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\user\\Desktop\\End\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
@@ -1133,6 +1322,12 @@
       "ContentRoot": "D:\\test\\Xiang\\Xiang\\Xiang\\wwwroot\\",
 >>>>>>> Coupon
 >>>>>>> origin/develop
+=======
+      "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "SourceId": "Xiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\",
+>>>>>>> origin/feature/ProductController基本功能
       "BasePath": "_content/Xiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1146,6 +1341,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\user\\Desktop\\End\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
@@ -1170,6 +1366,12 @@
       "ContentRoot": "D:\\test\\Xiang\\Xiang\\Xiang\\wwwroot\\",
 >>>>>>> Coupon
 >>>>>>> origin/develop
+=======
+      "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "SourceId": "Xiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\",
+>>>>>>> origin/feature/ProductController基本功能
       "BasePath": "_content/Xiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1183,6 +1385,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\user\\Desktop\\End\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
@@ -1207,6 +1410,12 @@
       "ContentRoot": "D:\\test\\Xiang\\Xiang\\Xiang\\wwwroot\\",
 >>>>>>> Coupon
 >>>>>>> origin/develop
+=======
+      "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "SourceId": "Xiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\",
+>>>>>>> origin/feature/ProductController基本功能
       "BasePath": "_content/Xiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1220,6 +1429,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\user\\Desktop\\End\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
@@ -1244,6 +1454,12 @@
       "ContentRoot": "D:\\test\\Xiang\\Xiang\\Xiang\\wwwroot\\",
 >>>>>>> Coupon
 >>>>>>> origin/develop
+=======
+      "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "SourceId": "Xiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\",
+>>>>>>> origin/feature/ProductController基本功能
       "BasePath": "_content/Xiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1257,6 +1473,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\user\\Desktop\\End\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
@@ -1281,6 +1498,12 @@
       "ContentRoot": "D:\\test\\Xiang\\Xiang\\Xiang\\wwwroot\\",
 >>>>>>> Coupon
 >>>>>>> origin/develop
+=======
+      "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "SourceId": "Xiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\",
+>>>>>>> origin/feature/ProductController基本功能
       "BasePath": "_content/Xiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1294,6 +1517,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\user\\Desktop\\End\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
@@ -1318,6 +1542,12 @@
       "ContentRoot": "D:\\test\\Xiang\\Xiang\\Xiang\\wwwroot\\",
 >>>>>>> Coupon
 >>>>>>> origin/develop
+=======
+      "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "SourceId": "Xiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\",
+>>>>>>> origin/feature/ProductController基本功能
       "BasePath": "_content/Xiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1331,6 +1561,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\user\\Desktop\\End\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
@@ -1355,6 +1586,12 @@
       "ContentRoot": "D:\\test\\Xiang\\Xiang\\Xiang\\wwwroot\\",
 >>>>>>> Coupon
 >>>>>>> origin/develop
+=======
+      "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "SourceId": "Xiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\",
+>>>>>>> origin/feature/ProductController基本功能
       "BasePath": "_content/Xiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1368,6 +1605,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\user\\Desktop\\End\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
@@ -1392,6 +1630,12 @@
       "ContentRoot": "D:\\test\\Xiang\\Xiang\\Xiang\\wwwroot\\",
 >>>>>>> Coupon
 >>>>>>> origin/develop
+=======
+      "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "SourceId": "Xiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\",
+>>>>>>> origin/feature/ProductController基本功能
       "BasePath": "_content/Xiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1405,6 +1649,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\user\\Desktop\\End\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
@@ -1429,6 +1674,12 @@
       "ContentRoot": "D:\\test\\Xiang\\Xiang\\Xiang\\wwwroot\\",
 >>>>>>> Coupon
 >>>>>>> origin/develop
+=======
+      "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "SourceId": "Xiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\",
+>>>>>>> origin/feature/ProductController基本功能
       "BasePath": "_content/Xiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1442,6 +1693,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\user\\Desktop\\End\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
@@ -1466,6 +1718,12 @@
       "ContentRoot": "D:\\test\\Xiang\\Xiang\\Xiang\\wwwroot\\",
 >>>>>>> Coupon
 >>>>>>> origin/develop
+=======
+      "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "SourceId": "Xiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\",
+>>>>>>> origin/feature/ProductController基本功能
       "BasePath": "_content/Xiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1479,6 +1737,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\user\\Desktop\\End\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
@@ -1503,6 +1762,12 @@
       "ContentRoot": "D:\\test\\Xiang\\Xiang\\Xiang\\wwwroot\\",
 >>>>>>> Coupon
 >>>>>>> origin/develop
+=======
+      "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "SourceId": "Xiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\",
+>>>>>>> origin/feature/ProductController基本功能
       "BasePath": "_content/Xiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1516,6 +1781,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\user\\Desktop\\End\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
@@ -1540,6 +1806,12 @@
       "ContentRoot": "D:\\test\\Xiang\\Xiang\\Xiang\\wwwroot\\",
 >>>>>>> Coupon
 >>>>>>> origin/develop
+=======
+      "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "SourceId": "Xiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\",
+>>>>>>> origin/feature/ProductController基本功能
       "BasePath": "_content/Xiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1553,6 +1825,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\user\\Desktop\\End\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
@@ -1577,6 +1850,12 @@
       "ContentRoot": "D:\\test\\Xiang\\Xiang\\Xiang\\wwwroot\\",
 >>>>>>> Coupon
 >>>>>>> origin/develop
+=======
+      "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "SourceId": "Xiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\",
+>>>>>>> origin/feature/ProductController基本功能
       "BasePath": "_content/Xiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1590,6 +1869,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\user\\Desktop\\End\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
@@ -1614,6 +1894,12 @@
       "ContentRoot": "D:\\test\\Xiang\\Xiang\\Xiang\\wwwroot\\",
 >>>>>>> Coupon
 >>>>>>> origin/develop
+=======
+      "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "SourceId": "Xiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\",
+>>>>>>> origin/feature/ProductController基本功能
       "BasePath": "_content/Xiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1627,6 +1913,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\user\\Desktop\\End\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
@@ -1651,6 +1938,12 @@
       "ContentRoot": "D:\\test\\Xiang\\Xiang\\Xiang\\wwwroot\\",
 >>>>>>> Coupon
 >>>>>>> origin/develop
+=======
+      "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "SourceId": "Xiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\",
+>>>>>>> origin/feature/ProductController基本功能
       "BasePath": "_content/Xiang",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1664,6 +1957,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\user\\Desktop\\End\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
@@ -1688,6 +1982,12 @@
       "ContentRoot": "D:\\test\\Xiang\\Xiang\\Xiang\\wwwroot\\",
 >>>>>>> Coupon
 >>>>>>> origin/develop
+=======
+      "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "SourceId": "Xiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\",
+>>>>>>> origin/feature/ProductController基本功能
       "BasePath": "_content/Xiang",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1701,6 +2001,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\user\\Desktop\\End\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
@@ -1725,6 +2026,12 @@
       "ContentRoot": "D:\\test\\Xiang\\Xiang\\Xiang\\wwwroot\\",
 >>>>>>> Coupon
 >>>>>>> origin/develop
+=======
+      "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "SourceId": "Xiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\",
+>>>>>>> origin/feature/ProductController基本功能
       "BasePath": "_content/Xiang",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1738,6 +2045,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\user\\Desktop\\End\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
@@ -1762,6 +2070,12 @@
       "ContentRoot": "D:\\test\\Xiang\\Xiang\\Xiang\\wwwroot\\",
 >>>>>>> Coupon
 >>>>>>> origin/develop
+=======
+      "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "SourceId": "Xiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\",
+>>>>>>> origin/feature/ProductController基本功能
       "BasePath": "_content/Xiang",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1775,6 +2089,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\user\\Desktop\\End\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
@@ -1799,6 +2114,12 @@
       "ContentRoot": "D:\\test\\Xiang\\Xiang\\Xiang\\wwwroot\\",
 >>>>>>> Coupon
 >>>>>>> origin/develop
+=======
+      "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "SourceId": "Xiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\",
+>>>>>>> origin/feature/ProductController基本功能
       "BasePath": "_content/Xiang",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1812,6 +2133,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\user\\Desktop\\End\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
@@ -1836,6 +2158,12 @@
       "ContentRoot": "D:\\test\\Xiang\\Xiang\\Xiang\\wwwroot\\",
 >>>>>>> Coupon
 >>>>>>> origin/develop
+=======
+      "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "SourceId": "Xiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\",
+>>>>>>> origin/feature/ProductController基本功能
       "BasePath": "_content/Xiang",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1849,6 +2177,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\user\\Desktop\\End\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
@@ -1873,6 +2202,12 @@
       "ContentRoot": "D:\\test\\Xiang\\Xiang\\Xiang\\wwwroot\\",
 >>>>>>> Coupon
 >>>>>>> origin/develop
+=======
+      "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "SourceId": "Xiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\",
+>>>>>>> origin/feature/ProductController基本功能
       "BasePath": "_content/Xiang",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1886,6 +2221,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\user\\Desktop\\End\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
@@ -1910,6 +2246,12 @@
       "ContentRoot": "D:\\test\\Xiang\\Xiang\\Xiang\\wwwroot\\",
 >>>>>>> Coupon
 >>>>>>> origin/develop
+=======
+      "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "SourceId": "Xiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\",
+>>>>>>> origin/feature/ProductController基本功能
       "BasePath": "_content/Xiang",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1923,6 +2265,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\user\\Desktop\\End\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
@@ -1947,6 +2290,12 @@
       "ContentRoot": "D:\\test\\Xiang\\Xiang\\Xiang\\wwwroot\\",
 >>>>>>> Coupon
 >>>>>>> origin/develop
+=======
+      "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "SourceId": "Xiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\",
+>>>>>>> origin/feature/ProductController基本功能
       "BasePath": "_content/Xiang",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1960,6 +2309,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\user\\Desktop\\End\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
@@ -1984,6 +2334,12 @@
       "ContentRoot": "D:\\test\\Xiang\\Xiang\\Xiang\\wwwroot\\",
 >>>>>>> Coupon
 >>>>>>> origin/develop
+=======
+      "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "SourceId": "Xiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\",
+>>>>>>> origin/feature/ProductController基本功能
       "BasePath": "_content/Xiang",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1997,6 +2353,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\user\\Desktop\\End\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
@@ -2021,6 +2378,12 @@
       "ContentRoot": "D:\\test\\Xiang\\Xiang\\Xiang\\wwwroot\\",
 >>>>>>> Coupon
 >>>>>>> origin/develop
+=======
+      "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "SourceId": "Xiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\",
+>>>>>>> origin/feature/ProductController基本功能
       "BasePath": "_content/Xiang",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2034,6 +2397,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\user\\Desktop\\End\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
@@ -2058,6 +2422,12 @@
       "ContentRoot": "D:\\test\\Xiang\\Xiang\\Xiang\\wwwroot\\",
 >>>>>>> Coupon
 >>>>>>> origin/develop
+=======
+      "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "SourceId": "Xiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\",
+>>>>>>> origin/feature/ProductController基本功能
       "BasePath": "_content/Xiang",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2071,6 +2441,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\user\\Desktop\\End\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
@@ -2095,6 +2466,12 @@
       "ContentRoot": "D:\\test\\Xiang\\Xiang\\Xiang\\wwwroot\\",
 >>>>>>> Coupon
 >>>>>>> origin/develop
+=======
+      "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "SourceId": "Xiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\",
+>>>>>>> origin/feature/ProductController基本功能
       "BasePath": "_content/Xiang",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2108,6 +2485,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\user\\Desktop\\End\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\LICENSE",
@@ -2132,6 +2510,12 @@
       "ContentRoot": "D:\\test\\Xiang\\Xiang\\Xiang\\wwwroot\\",
 >>>>>>> Coupon
 >>>>>>> origin/develop
+=======
+      "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "SourceId": "Xiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\",
+>>>>>>> origin/feature/ProductController基本功能
       "BasePath": "_content/Xiang",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2145,6 +2529,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\user\\Desktop\\End\\Xiang\\Xiang\\wwwroot\\lib\\jquery\\dist\\jquery.js",
@@ -2169,6 +2554,12 @@
       "ContentRoot": "D:\\test\\Xiang\\Xiang\\Xiang\\wwwroot\\",
 >>>>>>> Coupon
 >>>>>>> origin/develop
+=======
+      "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "SourceId": "Xiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\",
+>>>>>>> origin/feature/ProductController基本功能
       "BasePath": "_content/Xiang",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2182,6 +2573,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\user\\Desktop\\End\\Xiang\\Xiang\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
@@ -2206,6 +2598,12 @@
       "ContentRoot": "D:\\test\\Xiang\\Xiang\\Xiang\\wwwroot\\",
 >>>>>>> Coupon
 >>>>>>> origin/develop
+=======
+      "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "SourceId": "Xiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\",
+>>>>>>> origin/feature/ProductController基本功能
       "BasePath": "_content/Xiang",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2219,6 +2617,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\user\\Desktop\\End\\Xiang\\Xiang\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
@@ -2243,6 +2642,12 @@
       "ContentRoot": "D:\\test\\Xiang\\Xiang\\Xiang\\wwwroot\\",
 >>>>>>> Coupon
 >>>>>>> origin/develop
+=======
+      "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "SourceId": "Xiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\",
+>>>>>>> origin/feature/ProductController基本功能
       "BasePath": "_content/Xiang",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2256,6 +2661,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\user\\Desktop\\End\\Xiang\\Xiang\\wwwroot\\lib\\jquery\\LICENSE.txt",
@@ -2280,6 +2686,12 @@
       "ContentRoot": "D:\\test\\Xiang\\Xiang\\Xiang\\wwwroot\\",
 >>>>>>> Coupon
 >>>>>>> origin/develop
+=======
+      "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "SourceId": "Xiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\",
+>>>>>>> origin/feature/ProductController基本功能
       "BasePath": "_content/Xiang",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2293,6 +2705,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\user\\Desktop\\End\\Xiang\\Xiang\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
@@ -2317,6 +2730,12 @@
       "ContentRoot": "D:\\test\\Xiang\\Xiang\\Xiang\\wwwroot\\",
 >>>>>>> Coupon
 >>>>>>> origin/develop
+=======
+      "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "SourceId": "Xiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\",
+>>>>>>> origin/feature/ProductController基本功能
       "BasePath": "_content/Xiang",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2330,6 +2749,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\user\\Desktop\\End\\Xiang\\Xiang\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
@@ -2354,6 +2774,12 @@
       "ContentRoot": "D:\\test\\Xiang\\Xiang\\Xiang\\wwwroot\\",
 >>>>>>> Coupon
 >>>>>>> origin/develop
+=======
+      "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "SourceId": "Xiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\",
+>>>>>>> origin/feature/ProductController基本功能
       "BasePath": "_content/Xiang",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2367,6 +2793,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\user\\Desktop\\End\\Xiang\\Xiang\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
@@ -2391,6 +2818,12 @@
       "ContentRoot": "D:\\test\\Xiang\\Xiang\\Xiang\\wwwroot\\",
 >>>>>>> Coupon
 >>>>>>> origin/develop
+=======
+      "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "SourceId": "Xiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\",
+>>>>>>> origin/feature/ProductController基本功能
       "BasePath": "_content/Xiang",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2404,6 +2837,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\user\\Desktop\\End\\Xiang\\Xiang\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
@@ -2428,6 +2862,12 @@
       "ContentRoot": "D:\\test\\Xiang\\Xiang\\Xiang\\wwwroot\\",
 >>>>>>> Coupon
 >>>>>>> origin/develop
+=======
+      "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "SourceId": "Xiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\",
+>>>>>>> origin/feature/ProductController基本功能
       "BasePath": "_content/Xiang",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2441,6 +2881,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\user\\Desktop\\End\\Xiang\\Xiang\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
@@ -2465,6 +2906,12 @@
       "ContentRoot": "D:\\test\\Xiang\\Xiang\\Xiang\\wwwroot\\",
 >>>>>>> Coupon
 >>>>>>> origin/develop
+=======
+      "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "SourceId": "Xiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\",
+>>>>>>> origin/feature/ProductController基本功能
       "BasePath": "_content/Xiang",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2478,6 +2925,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\user\\Desktop\\End\\Xiang\\Xiang\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
@@ -2502,6 +2950,12 @@
       "ContentRoot": "D:\\test\\Xiang\\Xiang\\Xiang\\wwwroot\\",
 >>>>>>> Coupon
 >>>>>>> origin/develop
+=======
+      "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "SourceId": "Xiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\",
+>>>>>>> origin/feature/ProductController基本功能
       "BasePath": "_content/Xiang",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2515,6 +2969,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\user\\Desktop\\End\\Xiang\\Xiang\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
@@ -2539,6 +2994,12 @@
       "ContentRoot": "D:\\test\\Xiang\\Xiang\\Xiang\\wwwroot\\",
 >>>>>>> Coupon
 >>>>>>> origin/develop
+=======
+      "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "SourceId": "Xiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\",
+>>>>>>> origin/feature/ProductController基本功能
       "BasePath": "_content/Xiang",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2552,6 +3013,7 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       "Identity": "C:\\Users\\user\\Desktop\\End\\Xiang\\Xiang\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
@@ -2576,6 +3038,12 @@
       "ContentRoot": "D:\\test\\Xiang\\Xiang\\Xiang\\wwwroot\\",
 >>>>>>> Coupon
 >>>>>>> origin/develop
+=======
+      "Identity": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "SourceId": "Xiang",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hpu97\\OneDrive\\Xiang\\Xiang\\Xiang\\Xiang\\wwwroot\\",
+>>>>>>> origin/feature/ProductController基本功能
       "BasePath": "_content/Xiang",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
