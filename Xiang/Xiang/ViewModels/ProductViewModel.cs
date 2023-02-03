@@ -1,4 +1,5 @@
-﻿using Xiang.Models;
+﻿using System.ComponentModel;
+using Xiang.Models;
 
 namespace Xiang.ViewModels
 {
@@ -19,6 +20,7 @@ namespace Xiang.ViewModels
         //嘗試用Lambda，OK
         public int ProductId { get => _product.ProductId; set => _product.ProductId = value; }
         public int? SupplierId { get => _product.SupplierId; set => _product.SupplierId = value; }
+        [DisplayName("商品名稱")]
         public string? Name { get => _product.Name; set => _product.Name = value; }
         public int? UnitPrice { get => _product.UnitPrice; set => _product.UnitPrice = value; }
         public string? Image { get => _product.Image; set => _product.Image = value; }

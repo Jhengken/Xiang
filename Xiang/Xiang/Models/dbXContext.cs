@@ -233,9 +233,6 @@ namespace Xiang.Models
 
             modelBuilder.Entity<Product>(entity =>
             {
-                entity.HasIndex(e => e.Image, "UQ_Products_Image")
-                    .IsUnique();
-
                 entity.Property(e => e.ProductId).HasColumnName("ProductID");
 
                 entity.Property(e => e.Image).HasMaxLength(50);

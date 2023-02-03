@@ -5,6 +5,7 @@ using Xiang.ViewModels;
 using System.IO;
 using System.Xml.Linq;
 using Microsoft.AspNetCore.Razor.TagHelpers;
+using Microsoft.EntityFrameworkCore;
 
 namespace Xiang.Controllers
 {
@@ -29,7 +30,7 @@ namespace Xiang.Controllers
             return View();
         }
         [HttpPost]
-        public IActionResult Login(SLoginViewModel vm)
+        public IActionResult Login(SLoginViewModel vm) //可以只存需要的，序列化消耗效能
         {
             Supplier user = new dbXContext().Suppliers.FirstOrDefault(t => t.Email.Equals(vm.txtAccount) && t.Password.Equals(vm.txtPassword));
             if (user != null && user.Password.Equals(vm.txtPassword))
@@ -93,14 +94,14 @@ namespace Xiang.Controllers
                 if (vm.photo != null)
                 {
                     string photoName = DateTime.Now.ToString("yyyyMMddHHmmssfffffff") + ".jpg";
-                    string path = _environment.WebRootPath + "/images/" + photoName;
+                    string path = _environment.WebRootPath + "/images/" + photoName;  //Path.Combine(_environment.WebRootPath, "/images/", photoName); 嘗試用combine看起來乾淨
                     if (x.Image != null)                        //刪除原有的檔案
                     {
-                        //ContorllerBase也有定義File所以要加System.IO.來準確使用
                         GC.Collect();
                         GC.WaitForPendingFinalizers();
                         string del = _environment.WebRootPath + "/images/" + x.Image.ToString();
-                        System.IO.File.Delete(del);
+                        //ContorllerBase也有定義File所以要加System.IO.來準確使用
+                        System.IO.File.Delete(del);            //靜態，所以沒有dispose
                     }
                     x.Image = photoName;
                     vm.photo.CopyTo(new FileStream(path, FileMode.Create));
@@ -116,6 +117,7 @@ namespace Xiang.Controllers
             if (id != null)
             {
                 dbXContext db = new dbXContext();
+              
                 Product del = db.Products.FirstOrDefault(t=>t.ProductId.Equals(id));
                 if (del != null)
                 {
