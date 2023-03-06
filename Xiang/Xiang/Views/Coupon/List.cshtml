@@ -1,0 +1,68 @@
+﻿@model IEnumerable<Xiang.Models.Coupon>
+
+@{
+    ViewData["Title"] = "List";
+}
+
+
+
+<p>
+    <a asp-action="Create">建立優惠卷</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+               編號
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Code)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Discount)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ExpiryDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Quantity)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Available)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @{
+            int count = 0;
+            foreach (var item in Model) {
+                count++;
+                <tr>
+            <td>
+                        @count
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Code)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Discount)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ExpiryDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Quantity)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Available)
+            </td>
+            <td>
+                @Html.ActionLink("編輯", "Edit", new {  id=item.CouponId  }) |            
+                @Html.ActionLink("刪除", "Delete", new {  id=item.CouponId  })
+            </td>
+        </tr>
+}
+        }
+    </tbody>
+</table>
